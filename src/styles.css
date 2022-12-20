@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul > li {
+  list-style-type: none;
+}
+.students {
+  border: 1px solid black;
+}
+.name {
+  border: 2px solid black;
+}
+.bio {
+  font-style: italic;
+}
+.scores {
+  border: 2px 2px 0 2px solid black;
+}
+.date {
+  font-weight: bold;
+  /* border: 2px solid orange; */
+}
